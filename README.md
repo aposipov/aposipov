@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Skills and Tools  
 <img align="left" alt="HTML5" width="30px" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/3f08359004f21963e7fc5f7c51139433.png" />
+<img align="left" alt="CSS" width="22px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/CSS-caglarbostanci-com-tr.png" />
 <br/>  
 
 ### You can contact me  

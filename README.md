@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Skills and Tools  
-<img align="left" width="26px" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/3f08359004f21963e7fc5f7c51139433.png"/>  
+<img align="left" alt="HTML5" width="26px" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/3f08359004f21963e7fc5f7c51139433.png" />
+<br/>  
+
 ### You can contact me  
 ☎️

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skills and Tools
-[https://smile-emoji.ru/wp-content/uploads/site-images/discord/3f08359004f21963e7fc5f7c51139433.png]
-### You can contact me
+### Skills and Tools  
+<img align="left" width="26px" src="https://smile-emoji.ru/wp-content/uploads/site-images/discord/3f08359004f21963e7fc5f7c51139433.png"/>  
+### You can contact me  
 ☎️

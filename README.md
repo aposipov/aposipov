@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="22px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/CSS-caglarbostanci-com-tr.png" />
 <br/>  
 
-### You can contact me  
+### You can contact me:  
 ☎️

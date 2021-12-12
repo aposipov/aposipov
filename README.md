@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ### You can contact me:  
 ☎️  
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aposipov)](https://github.com/anuraghazra/github-readme-stats)
 

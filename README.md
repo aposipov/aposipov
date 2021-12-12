@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### You can contact me:  
 ☎️  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov)](https://github.com/aposipov/github-readme-stats)  
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&theme=tokyonight)
 

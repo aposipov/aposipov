@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### You can contact me:  
 ☎️  
-  
+
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ajaidi)](https://github.com/mohouyizme/1337-readme)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=tokyonight)](https://github.com/aposipov/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&theme=tokyonight)
 
 

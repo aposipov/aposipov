@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## 📌 Pinned Repositories  
 <p align="center">
-<a href="">
+<a href="https://github.com/aposipov/42cursus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=42cursus&theme=buefy" />
 </a>
-<a href="">
+<a href="https://github.com/aposipov/linux-set">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=linux-set&theme=buefy" />
 </a> </p>
     

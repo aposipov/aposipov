@@ -1,4 +1,4 @@
-### Hi there 👋 I am a student at 21 school (Ecole 42) in Moscow (@school21moscow)
+### Hi there 👋 I am a student at 21 school (Ecole 42) in Moscow
 
 <!--
 **aposipov/aposipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

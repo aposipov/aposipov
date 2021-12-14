@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 </br>  
 
 ## 📌 Pinned Repositories  
+<p align="center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=42cursus&theme=buefy" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=linux-set&theme=buefy" />
-</a>
+</a> </p>
     
 ## &#x1f4c8; GitHub Stats  
 | <a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=buefy&hide_border=true" /></a> |

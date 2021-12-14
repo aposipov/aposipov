@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 <img align="left" alt="Bootstrap" width="30px" src="https://s3-us-west-1.amazonaws.com/daviduli-main/assets/logos/development/Bootstrap+Badge.png" />  
 </br>  
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories  
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=42cursus&theme=buefy" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=linux-set&theme=buefy" />
+</a>
   
 ## &#x1f4c8; GitHub Stats  
-| <a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

@@ -27,7 +27,18 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aposipov&repo=linux-set&theme=buefy" />
 </a>
-  
+    
 ## &#x1f4c8; GitHub Stats  
 | <a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- |  
+  
+<p align="center">
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=aposipov&color=blue&style=flat&label=visitors" />
+<img alt="surfi's followers" src="https://img.shields.io/github/followers/aposipov?color=blue" />
+<img alt="surfi's stars" src="https://img.shields.io/github/stars/aposipov?color=blue" />
+</p>  
+
+---  
+<h3 align="center">
+	I would be really happy if you star 🌟 my repositories if they were useful to you !
+</h3>

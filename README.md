@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋 I am a student at 21 school (Ecole 42)
 
 <!--
 **aposipov/aposipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

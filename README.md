@@ -43,6 +43,3 @@ Here are some ideas to get you started:
 <h3 align="center">
 	I would be really happy if you star 🌟 my repositories if they were useful to you !
 </h3>
-  
-![Codewars](https://github.r2v.ch/codewars?user=apos10&top_languages=true)  
-https://github-readme-codewars-stats.herokuapp.com/api/?username=apos10&badge&colormode=bright_mode

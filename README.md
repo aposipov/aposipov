@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Bootstrap" width="30px" src="https://s3-us-west-1.amazonaws.com/daviduli-main/assets/logos/development/Bootstrap+Badge.png" />  
 </br>  
 
+-[] Docker
+-[] Docker-compose
+-[] VirtualBox, KVM
+[] Kubernetes  
+
 ## 📌 Pinned Repositories  
 <p align="center">
 <a href="https://github.com/aposipov/42cursus">

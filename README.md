@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - [ ] VirtualBox, KVM
 - [ ] Kubernetes  
 
-|test1    |test2    |  
-|-----|-----|    
+|- [ ] test1 |test2    |  
+|-----|-----:|    
 |3|4|
 |5|6|
 ## 📌 Pinned Repositories  

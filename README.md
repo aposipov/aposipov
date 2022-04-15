@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 </br>  
   
 ##  
-- [ ] Docker   
-- [ ] Docker-compose
+- [ ] Docker, Docker-compose   
+- [ ] Kubernetes
 - [ ] VirtualBox, KVM
-- [ ] Kubernetes  
+- [ ] API
+- [ ] SQL, PostgreSQL
+- [ ] Python  
 
 |- [ ] test1 |test2    |  
 |-----|-----:|    

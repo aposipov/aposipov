@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 - [ ] SQL, PostgreSQL
 - [ ] Python  
 
-|- [ ] test1 |test2    |  
-|-----|-----:|    
-|3|4|
-|5|6|
 ## 📌 Pinned Repositories  
 <p align="center">
 <a href="https://github.com/aposipov/42cursus">

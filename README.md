@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 </br>  
   
 ##  
+- [ ] Bash
+- [ ] QlickView, PowerBi, TableAu
 - [ ] Docker, Docker-compose   
 - [ ] Kubernetes
 - [ ] VirtualBox, KVM
+- [ ] CI/CD
 - [ ] API
 - [ ] SQL, PostgreSQL
 - [ ] Python  

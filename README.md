@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </br>  
   
 ##  
+- [x] Debian, Ubuntu, Fedora
 - [ ] Bash
 - [ ] QlickView, PowerBi, TableAu
 - [ ] Docker, Docker-compose   

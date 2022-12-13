@@ -49,13 +49,9 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats  
 old theme = buefy
 -->
-<img src="https://camo.githubusercontent.com/120bf862735c29d54e037fbd320ad881a292b8541fce8672c936515f6c5f2ec3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726163636f6d616e267468656d653d6769746875625f6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=aposipov&amp;theme=github_dark&amp;show_icons=true&amp;hide_border=true" style="max-width: 100%;" height="185"> 
-<!--
-<a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align = "left" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Alex's github stats" style="max-width: 50%;" height="185" /></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=dark&hide_border=true" style="max-width: 100%;" height="185" /></a> 
--->
-<!--
+| <a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align = "left" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Alex's github stats" style="max-width: 50%;" height="185" /></a> | <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=dark&hide_border=true" style="max-width: 100%;" height="185" /></a> |
 | ------------- | ------------- |  
--->  
+
 <p align="center">
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=aposipov&color=blue&style=flat&label=visitors" />
 <img alt="surfi's followers" src="https://img.shields.io/github/followers/aposipov?color=blue" />

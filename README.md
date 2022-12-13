@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats  
 old theme = buefy
 -->
-<a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Alex's github stats" style="max-width: 100%;" height="185" /></a> <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=dark&hide_border=true" style="max-width: 100%;" height="185" /></a> 
+<a href="https://github-readme-stats.vercel.app/api?username=aposipov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aposipov&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Alex's github stats" style="max-width: 90%;" height="185" /></a> <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposipov&layout=compact&theme=dark&hide_border=true" style="max-width: 100%;" height="185" /></a> 
 <!--
 | ------------- | ------------- |  
 -->  

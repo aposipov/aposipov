@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 <img alt="surfi's stars" src="https://img.shields.io/github/stars/aposipov?color=blue" />
 </p>  
 
+<!--
 ---  
 <h3 align="center">
 	I would be really happy if you star 🌟 my repositories if they were useful to you !
 </h3>
+-->
